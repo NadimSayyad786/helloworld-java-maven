@@ -5,7 +5,6 @@ fsd
 f
 # ========================NEXUS==============================
 
-# Nadim test commit
 
 <distributionManagement>
 	<repository>
